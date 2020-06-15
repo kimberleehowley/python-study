@@ -1,6 +1,12 @@
 # This is a comment! 
-'''This isn't technically a comment, but nothing happens in between it!'''
-"""Same goes here!"""
+'''
+This isn't technically a comment, 
+but no program can execute between the quotes,
+and it's fun!
+'''
+"""
+Same goes here!
+"""
 
 # I am so excited for everything we will learn in this course. 
 # 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
