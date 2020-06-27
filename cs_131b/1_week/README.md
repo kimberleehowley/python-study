@@ -30,3 +30,19 @@ print('Kimberlee lives in State Assembly District 11, so her Assembly Member is 
 ## Types
 ### [Python for Everybody](https://fog.ccsf.edu/~abrick/Severance.pdf)
 ### 2. Variables, Expressions, and Statements 
+* _Value_: One of the basic things a program works with, eg. a letter or number. 
+* Values belong to _types_, like integers or strings. 
+* You can find what type a value is by using `type(_value_)`. 
+* Numbers with decimal points belong to the type _float_, because they are _floating point_. 
+* Don't use commas if you are trying to represent large numbers! Python sees the commas as a space. 
+* Variable names cannot start with numbers. 
+* You cannot use one of Python's 33 reserved keywords as a variable name. There are also some illegal characters that cannot be used in names, like `@`. 
+* _Statement_: Unit of code the Python interpreter can execute. 
+* Use floored division `//` to get a truncated result when you divide; otherwise you'll get a floating point. 
+* _Expression_: Combination of values, variables, and operators. 
+* Python follows PEMDAS. 
+* Python's built-in `input()` function lets us ask for user input. It immediately prints what a user has input after the prompt is fulfilled. 
+* `\n` at the end of a statement represents a line break. 
+* You can convert a user input to an int by using the `int()` function after a user enters. 
+* Good comments explain the _why_ of a program; it's okay to assume a reader can figure out the _what_ in most cases. 
+* _Mnemonic variable names_: "Memory aid" names; helps us remember what a variable does. 
