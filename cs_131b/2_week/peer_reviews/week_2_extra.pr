@@ -1,0 +1,13 @@
+j6  Terminal output is excellent! I love that I see both the FL and ID representation ratios here, and I clearly see your logic from your sentences. My only nitpick would be to potentially round, because it personally always throws me off when I see decimal numbers represent a number of people. Your code is gorgeou. I love the clear notes about where you got the data, and your comments to explain each section of the code. Nice work! 
+
+rp  Great work on this! Your terminal output is clear and easy to read, and I like how you cite your sources there too. One minor nitpick I have is I'm not seeing periods at the ends of your sentences, which could help for readability. As for the code itself, it reads cleanly to me and I like how you describe floored division. Nice work! 
+
+jc  Your terminal output is short and sweet. Nice work! My only nitpick wold be to add a period at the end of the sentence for readability. As for the code itself, it's easy to follow and logical! My only nitpick is that typically in Python I see variable names as snake case, so I'd write idaho_population instead of idahoPopulation to follow convention, for example. This is tricky for me because I come from JavaScript land, where we love camel case (like you have it; I wonder if you're coming from JavaScript too). Overall, great work! 
+
+5p  Great work! I appreciate the short and sweet output in the terminal. One nitpick I have is that it looks like a period is missing from the terminal output. As for the code itself, it's clean, easy to read, and your comments are helpful. Nice work! 
+
+p4  Good job! I'm seeing an output in my terminal when I run this. I'm not quite sure if it's the correct number. I'm also seeing a few typos when it comes to representation, so I'd have a readthrough for typos in print statements in the future. Jumping into the code, I'm not seeing a place that notes the source of the population numbers, and that could be the source of the numerical error. I'd have a look at that again. 
+
+dx  Nice work! I see the numbers and output I expect in the terminal. I am catching a few typos, so one nitpick I have is to be sure to proofread your print statements. Jumping into your code, this is so clean and easy to follow! The only minor nitpick I can think of is to follow Python "convention" and use "snake case" instead of "camel case" for variable names, so idaho_population instead of idahoPop, for example. This is hard for me to remember to do as a JavaScript developer! 
+
+hj  Great work! I appreciate the short and sweet output in my terminal. Jumping into your code, I'm not sure I'm seeing a citation for the numbers, so Id be sure to go back and add that. Your logic is clean and easy to follow. Nice work! 
