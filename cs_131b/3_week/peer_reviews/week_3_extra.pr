@@ -1,0 +1,13 @@
+c4  Wow! I love the organized output in the terminal, with the squares included and everything. I also appreciate how you specify and outline a remainder. You definitely go above and beyond! As for your code, it's easy to follow and logical, and I appreciate your comments. It looks like there might be an extra space after Sum_dices, but that doesn't distract too much from readability. I think Python convention is to use snake case to start variables with lower case names, so sum_dices for example, but, again, that's a nitpick. Great work! 
+
+8q  Nice! This is a short and sweet implementation of the assignment. I appreciate the simplicity in the terminal output. Looking at your code, it's clear and easy to follow. I'm not sure if parentheses are needed in the if conditional in Python, but your program still works. Great job! 
+
+pk  Interesting terminal output! It's refreshing to see your literal code in the terminal, so I don't even have to `cat` into your file if I don't feel like it. But, I will, and it's easy to read and follow. Have you read about functions yet? One thing I'd ask is if you spot anything in your code you could simplify with functions. Great work! 
+
+uj  Nice job! I like the 'Rolling Dices...' comment at the top of the terminal output. And, it's correct for this assignment. Great work. Opening your code, all looks clean and easy to follow, but I'm not seeing any comments. I'd be curious to ask you if you thought about adding any, and, if so, where. Great job! 
+
+wi  Great work! The program runs as expected in my terminal, and satisfies the assignment. I'm noticing a little bit of a spacing oddity after the sum is listed and before the second half of the sentence, e.g. "959 ,it is...". I'd recommend testing your terminal output if you're not already. As for your code, I really like the functional approach. The only nitpick I can spot is that variable names are usually snake case in Python, so 'sum_of_dice' instead of 'sumOfDice', for example. Nice job! 
+
+4f Oh, interesting! I like the output of whether a number is even or odd in the terminal. I'm curious if the even numbers divisble by 3 will also report as even. Looking at your code, I see that is definitely the case. Your comments clearly explain every step. It looks like there might be some extra spacing between the if else statements, but, other than that, no comments. Nice work! 
+
+4t  Great job! This terminal output reads clearly, and satisfies the requirements of the program. I like the simplicity of it. Looking at your code, I really like the smart use of constants, and your clear comments. I might ask how you would print without using `.format`, but that's only because I can't think of anything else to ask. Great work! 
