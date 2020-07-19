@@ -25,6 +25,24 @@
 * `frozenset`: immutable set providing the same benefits as a tuple over a list
 
 ## Video Notes 
+* Lists and sets are collections 
+* Lists has indices and order
+  * This means we can use Python's slicing and striding syntax 
+  * sys.argv will be a particuar list we focus on 
+* Sets are not in any order; just a grab bag 
+* Both support the "in" operator, for checking if an element is "in" the collection 
 
-## Severance 
-### 6, 8, 9, 10
+
+### [Python for Everybody](https://fog.ccsf.edu/~abrick/Severance.pdf)
+### 6: Strings 
+* A string is a sequence; characters can be accessed one at a time with the bracket operator, using indices 
+  * Indices must be integers! 
+* `len` gives us the built-in length of a string (starts counting at 1, not 0 like indices)
+* You can use negative indices to get last/first letters in strings 
+* _Traversal_: Starting at the beginning of something and continuing through each item through to the end 
+  * _while_ loops 
+  * _for_ loops 
+
+### 8:  
+### 9:  
+### 10: 
