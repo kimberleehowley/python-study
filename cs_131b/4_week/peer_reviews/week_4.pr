@@ -1,0 +1,13 @@
+we  Nice work! When I run this in my program with test arguments, duplicates are removed and alphabetized. Opening your code, I like how you get the arguments in list form. It's awesome that you do so much with just three lines of code. I'd be interested in asking you if there's anything you think you could do to condense even more. Great job! 
+
+f3  Good job from the command line! All runs as expected, no duplicates, all alphabetized. Looking at your code, I really like how you print both the original input and the reduced and sorted input. Your comments are really helpful too. The only thing I would ask you: is there another way you could make a new line, aside from that print() statement? 
+
+e8  Interesting! When I run this file, I'm seeing lists of different strings, but none of the command line arguments I entered match those. Looking at your code, I'm noticing two things: 1) Have you thought about how to run this program for command line arguments, maybe using sys.argv, instead of with a list stored in the program gile? And, 2) Is there a way you could do the sorting without the while loop? I see what you are trying to do with showing each stage of the process: sorting vs. sorted, duplicates vs. no dupes, and I do like that! 
+
+ij Hah! This is very good. I love your command line prompt to remind me to add more characters. I forgot to! When I remembered to add my test, your print statement returns a distinct, sorted list. Great work! Looking at your code, I really like the functional approach. If we were in-person peer review, I'd ask: What made you use an if else statement instead of a try/exception case? Would you consider refactoring, now that we've done that reading? Why or why not? 
+
+dy Nice! I like how the command line output shows both the original input and the revised de-duped and alphabetized list. Great work! Looking at your code, I love all the helpful comments. The only small nitpick I have is I think I see a typo in one of the comments 'arguement.' Try to proofread if you can make the time! 
+
+e2 Huh! When I first ran this without any extra arguments (my mistake), I got an empty list. When I ran again with my arguments, I did see them correctly de-duped and sorted, so this program does run per the terms of the assignment. Nice work! It might be nice to add a prompt to the user to tell them what they are doing wrong, instead of just showing an empty list. Looking at your code, I see your goal with trying to delete the file name, and I like it! 
+
+jk Nice! I like how this explains there is a programming exercise, and the way the output is set up reminds the user to add command line arguments if they forgot. Looking at your code, I like the functional approach. Nice work! 

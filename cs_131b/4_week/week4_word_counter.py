@@ -4,7 +4,7 @@ This program estimates the number of unique words in the text file: '/users/abri
 
 # File path stored as a variable. 
 # Instructions specify the program *only* needs to read this file, no others. Therefore, variable! 
-file_path = '/Users/kimberleejohnson/Documents/python-study/cs_131b/4_week/words_to_count.txt'
+file_path = '/users/abrick/resources/urantia.txt'
 
 # Variable holds a word count we keep adding to 
 word_count = 0 
@@ -24,6 +24,7 @@ else:
 # Place that line.split in a set to get unique words only. 
 # Add the number of those words to the word_count 
     for line in file: 
+        line_count += 1
         word_count += len(set(line.split()))
 # Subtract the number of line breaks from the word count  
 line_breaks = len(file) - file.count('\n')

@@ -1,0 +1,14 @@
+hx  Nice work! When I remember to pass in arguments, I see them all displayed in alphabetical order. The one thing I'm noticing is that I wasn't given a prompt when I forgot to pass anything extra in, so a reminder to the user in some print statement might be useful. As for your code, all looks good to me! I like how you used a dictionary, and I'd like to ask you if there was a particular reason you did use one. 
+
+v3  Nice! When I run this in the terminal, it prints out the file name, which is the only argument passed to start. Running again with my test words, it also works. Looking at your code, I'd be curious to ask about your approach to appending a unique list. Is there another way you might've thought about doing this? I like your approach as is, to be clear! I'm just curious.  
+
+6r  Ah! I forgot to add any arguments after the file name, and see an empty list. It might be useful to prompt the user to remember to add arguments here. When I do add arguments, everything works. Great job! Looking at your code, I'm really impressed with how you wrote out the argument first, and included each part of the code that would do what, then got it all done in one line. Great job! 
+
+ss  Great! I like the reminder that I forgot to pass in arguments. And, when I do add them in, I see that they are de-duped and in alphabetical order. Great work! Your code is clean and easy to read. I like how you used a set to handle the sorting and de-duping in one go. 
+
+c3  Ah, shoot, I forgot to add test arguments again. I see an empty list without arguments, but a reminder of what I should go back and do here could be helpful. Your code is clean and easy to follow. One thing I'd ask is if there's a way you could simplify all the extra print statements? Did you think about using the newline character, for example? 
+
+zp  Ah, shoot, I forgot to add test arguments again. I see nothing under the "Arguments passed in alphabetic order..." A reminder of what I should go back and do here could be helpful. Looking at your code, it's clean and easy to read. Nice work! One question I have is if you've thought about other ways you could write the program, instead of a for loop, for example? 
+
+g8  Ah, shoot, I forgot to add test arguments again. I see nothing after the colon. A reminder to me to add the arguments could be useful, but I figured it out, was able to add them, and the test works well. Nice job! Looking at your code, I really like the use of pop to get rid of the file name, and I also like your functional approach. Great job! 
+
